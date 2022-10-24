@@ -13,7 +13,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const titleMain = document.querySelector('h1.title-main');
     if (!keyword) {
       alert('Chưa nhập từ khóa vào ô tìm kiếm!');
-      window.location = '../index.php'; 
+      window.location = '../index.html'; 
     } 
     else {
       titleMain.innerText = 'Tìm kiếm: ' + keyword;

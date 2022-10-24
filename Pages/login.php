@@ -123,7 +123,7 @@
       } else {
         $get_account = $get_data->select_user_account($_POST['txt_email'], $_POST['txt_password']);
         if ($get_account != 1) echo "<script> alert('Mật khẩu sai!') </script>";
-        else echo "<script> window.location = '../index.php'; </script>";
+        else echo "<script> window.location = '../index.html'; </script>";
       }
     }
   }

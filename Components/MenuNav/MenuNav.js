@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', () => {
     <div class="container-fluid">
     <nav class="main-nav mx-5">
       <ul class="js-md-menu md-menu d-flex">
-        <li class="i-home d-sm-none d-lg-block"><a href="../index.php"><img src="../assets/img/img-header/icon-home2.png" alt="icon-home2"></a></li>
+        <li class="i-home d-sm-none d-lg-block"><a href="../index.html"><img src="../assets/img/img-header/icon-home2.png" alt="icon-home2"></a></li>
         <li class="d-sm-block d-lg-none">
           <div class="js-icon-close icon-close"><i class="fa-solid fa-xmark"></i></div>
         </li>

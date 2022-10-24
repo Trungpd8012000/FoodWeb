@@ -46,7 +46,7 @@ document.addEventListener('DOMContentLoaded', () => {
     <div class="container-fluid">
       <div class="row mx-sm-5 align-items-center">
         <div class="col-lg-2 ps-0 d-lg-block d-sm-none">
-          <a href="../index.php">
+          <a href="../index.html">
             <img src="../assets/img/img-header/logo.png" alt="logo" class="w-100 h-auto">
           </a>
         </div>
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
                   <i class="fa-solid fa-bars" style="font-size: 24px;"></i>
                 </div>
                 <div class="md-logo d-sm-block d-lg-none text-center">
-                  <a href="../index.php">
+                  <a href="../index.html">
                     <img src="../assets/img/img-header/logo.png" alt="logo" class="w-75">
                   </a>
                 </div>
